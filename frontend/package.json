@@ -1,0 +1,13 @@
+{
+  "name": "ipl-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "5.0.1",
+    "chart.js": "^4.0.0",
+    "react-chartjs-2": "^5.0.0",
+    "bootstrap": "^5.2.0"
+  }
+}
